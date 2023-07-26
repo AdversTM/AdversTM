@@ -54,6 +54,11 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
+<h3 align="left">✍️ Random Dev Quote:</h3>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="random dev quote" height="200"/>
+</p>
+
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adverstm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adverstm" /></a></p><br><br> -->
 <hr>
