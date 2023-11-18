@@ -73,6 +73,6 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=adverstm&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="AdversTM's GitHub Streak">
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adverstm&theme=dracula&layout=compact&hide_title=true&langs_count=10" alt="AdversTM's wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adverstm&theme=dracula&layout=compact&hide_title=true&langs_count=18" alt="AdversTM's wakatime stats">
   </p>
 </details>
